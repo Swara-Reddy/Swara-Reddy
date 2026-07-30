@@ -73,7 +73,20 @@ Computer Science Engineering (AI & ML) Student | Machine Learning Enthusiast | C
 | 🖼️ **Image Transformation Toolkit** | Image processing project implementing matrix-based transformations such as rotation, scaling, reflection and shearing using Linear Algebra. | Python, NumPy, OpenCV |
 
 ---
+## 💼 Internship Experience
 
+This project was developed during my **Full-Stack Project Development Internship** at **Zetheta Algorithms Pvt. Ltd.**
+
+**Internship Details**
+
+- **Role:** Full-Stack Project Development Intern
+- **Company:** Zetheta Algorithms Pvt. Ltd.
+- **Mode:** Remote (Project-Based)
+- **Duration:** February 2026 – March 2026
+
+During the internship, I independently designed and implemented project features, translating open-ended problem statements into complete full-stack applications.
+
+---
 # 🎖️ Achievements
 
 - ⭐ Solved 100+ DSA problems
