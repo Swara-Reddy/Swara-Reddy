@@ -52,7 +52,7 @@
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,r,html,css,js,react,nodejs,express,mysql,git,github,vscode,tensorflow,opencv,sklearn,figma,streamlit&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,r,MATLAB,html,css,js,react,nodejs,express,JavaScript,mysql,git,github,vscode,tensorflow,opencv,sklearn,figma,streamlit&perline=8"/>
 </p>
 
 ---
@@ -87,13 +87,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Swara-Reddy&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
 
 # 📈 Activity Graph
 
@@ -111,11 +104,6 @@
 
 ---
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Swara-ReddyE&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
