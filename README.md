@@ -74,36 +74,20 @@ Computer Science Engineering (AI & ML) Student | Machine Learning Enthusiast | C
 
 ---
 
-# 📊 GitHub Stats
+# 🎖️ Achievements
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Swara-Reddy&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swara-Reddy&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
+- ⭐ Solved 100+ DSA problems
+- 🏆 Active Competitive Programmer
+- 🚀 Built Full Stack & Machine Learning Projects
+- Mathematics Enthusiast 
 ---
 
-# 🔥 GitHub Streak
+# 📚 Currently Learning
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Swara-Reddy&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Swara-Reddy&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 💻 Data Structures & Algorithms
+- ⚡ Competitive Programming
 ---
 
 # 📈 Contribution Graph
