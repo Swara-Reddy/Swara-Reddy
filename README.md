@@ -16,6 +16,7 @@ Computer Science Engineering (AI & ML) Student | Machine Learning Enthusiast | C
 - 💻 Passionate about Software Development and Machine Learning
 - 🌱 Currently improving my DSA and Competitive Programming skills
 - 🚀 Interested in AI, Full Stack Development and Problem Solving
+- 🎯 Project completed during Zetheta Algorithms Internship
 - 📫 Reach me at **swarareddy51@gmail.com**
 
 ---
@@ -85,6 +86,13 @@ This project was developed during my **Full-Stack Project Development Internship
 - **Duration:** February 2026 – March 2026
 
 During the internship, I independently designed and implemented project features, translating open-ended problem statements into complete full-stack applications.
+
+## 📁 Internship Projects
+
+| Project | Repository |
+|----------|------------|
+| ♟ Currency War Chess | [View Repository](https://github.com/ZethetaIntern/currency-war-chess-1) |
+| 📈 Capital Flow Dashboard | [View Repository](https://github.com/ZethetaIntern/capital-flow-dashboard) |
 
 ---
 # 🎖️ Achievements
