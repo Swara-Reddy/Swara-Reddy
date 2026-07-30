@@ -106,7 +106,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/Swara-Reddy/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Swara-Reddy/Swara-Reddy/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
