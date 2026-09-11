@@ -68,6 +68,7 @@ Computer Science Engineering (AI & ML) Student | Machine Learning Enthusiast | C
 
 | Project | Description | Tech Stack |
 |----------|-------------|------------|
+| 🛍️ **[FitResQ](https://github.com/Swara-Reddy/FitResQ)** | AI-powered customer support and refund resolution platform with intent classification, sentiment & priority prediction, policy-grounded RAG, case tracking, SLA escalation and secure customer workflows. | React.js, FastAPI, Python, Scikit-Learn, RAG, AWS Lambda, DynamoDB, Cognito, EventBridge, SQS |
 | 🎵 **Music Mood Classifier** | Machine Learning application that predicts the mood of songs and recommends similar tracks based on audio features. | Python, Streamlit, Scikit-Learn, Librosa |
 | 🐶 **Pet Adoption Website** | Full Stack web application for browsing, searching and adopting pets with dynamic adoption status and database management. | HTML, CSS, JavaScript, Node.js, Express.js, MySQL |
 | ✈️ **Airport Management System** | Airport management web application for managing flights, passengers, bookings, schedules and ticket information through an interactive dashboard. | HTML, CSS, JavaScript, Node.js, Express.js, MySQL |
@@ -109,16 +110,6 @@ During the internship, I independently designed and implemented project features
 - 🧠 Deep Learning
 - 💻 Data Structures & Algorithms
 - ⚡ Competitive Programming
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swara-Reddy&theme=tokyo-night"/>
-
-</p>
-
 ---
 
 <p align="center">
