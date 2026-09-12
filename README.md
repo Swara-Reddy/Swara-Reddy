@@ -74,7 +74,7 @@ Computer Science Engineering (AI & ML) Student | Machine Learning Enthusiast | C
 
 | Project | Description | Tech Stack |
 |----------|-------------|------------|
-| 🛍️ **[FitResQ](https://github.com/Swara-Reddy/FitResQ)** | AI-powered customer support and refund resolution platform with intent classification, sentiment & priority prediction, policy-grounded RAG, case tracking, SLA escalation and secure customer workflows.🌐 **[Live Demo](https://main.d215h2zs4weqtm.amplifyapp.com/)**| React.js, FastAPI, Python, Scikit-Learn, RAG, AWS Lambda, DynamoDB, Cognito, EventBridge, SQS |
+| 🛍️ **[FitResQ](https://github.com/Swara-Reddy/FitResQ)** | AI-powered customer support and refund resolution platform with intent classification, sentiment & priority prediction, policy-grounded RAG, case tracking, SLA escalation and secure customer workflows.🌐 **[Live Demo](https://main.d215h2zs4weqtm.amplifyapp.com/)**| Cloud computing,React.js, FastAPI, Python, Scikit-Learn, RAG, AWS Lambda, DynamoDB, Cognito, EventBridge, SQS |
 | 🎵 **Music Mood Classifier** | Machine Learning application that predicts the mood of songs and recommends similar tracks based on audio features. | Python, Streamlit, Scikit-Learn, Librosa |
 | 🐶 **Pet Adoption Website** | Full Stack web application for browsing, searching and adopting pets with dynamic adoption status and database management. | HTML, CSS, JavaScript, Node.js, Express.js, MySQL |
 | ✈️ **Airport Management System** | Airport management web application for managing flights, passengers, bookings, schedules and ticket information through an interactive dashboard. | HTML, CSS, JavaScript, Node.js, Express.js, MySQL |
